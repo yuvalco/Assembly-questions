@@ -1,3 +1,3 @@
 # Assembly-questions
 
-Execrises in mips assembly
+Exercises in mips assembly
